@@ -1,0 +1,119 @@
+{
+    "code": 200, 
+    "status": "成功", 
+    "list1": [
+        {
+            "name1": "——潮人必备——"
+        },
+        {
+            "name2": "——靴子——"
+        },
+        {
+            "name3": "——运动休闲鞋——"
+        },
+        {
+            "name5": "——品牌墙——"
+        }
+    ],
+    "list": [
+        [
+          {
+            "img":"../images/nvxie/x1.jpg",
+            "name":"玛丽珍"
+        },
+        {
+            "img":"../images/nvxie/x2.jpg",
+            "name":"芭蕾鞋"
+        },
+        {
+            "img":"../images/nvxie/x3.jpg",
+            "name":"松糕鞋"
+        },
+        {
+            "img":"../images/nvxie/x4.jpg",
+            "name":"乐福鞋"
+        },
+        {
+            "img":"../images/nvxie/x5.jpg",
+            "name":"穆勒鞋"
+        },
+        {
+            "img":"../images/nvxie/x6.jpg",
+            "name":"罗马鞋"
+        } 
+        ],
+        [
+           {
+            "img":"../images/nvxie/x7.jpg",
+            "name":"踝靴"
+        },
+        {
+            "img":"../images/nvxie/x8.jpg",
+            "name":"袜靴"
+        },
+        {
+            "img":"../images/nvxie/x9.jpg",
+            "name":"过膝靴"
+        },
+        {
+            "img":"../images/nvxie/x10.jpg",
+            "name":"切尔西靴"
+        },
+        {
+            "img":"../images/nvxie/x11.jpg",
+            "name":"马丁靴"
+        },
+        {
+            "img":"../images/nvxie/x12.jpg",
+            "name":"雪地靴"
+        }
+        ],
+        [
+            {
+            "img":"../images/nvxie/x13.jpg",
+            "name":"小白鞋"
+        },
+        {
+            "img":"../images/nvxie/x14.jpg",
+            "name":"板鞋"
+        },
+        {
+            "img":"../images/nvxie/x15.jpg",
+            "name":"帆布鞋"
+        },
+        {
+            "img":"../images/nvxie/x16.jpg",
+            "name":"船鞋"
+        },
+        {
+            "img":"../images/nvxie/x17.jpg",
+            "name":"豆豆鞋"
+        },
+        {
+            "img":"../images/nvxie/x18.jpg",
+            "name":"运动鞋"
+        }
+        ],
+        [
+           {
+            "img":"../images/nvxie/x19.jpg"
+        },
+        {
+            "img":"../images/nvxie/x20.jpg"
+        },
+        {
+            "img":"../images/nvxie/x21.jpg"
+        },
+        {
+            "img":"../images/nvxie/x22.jpg"
+        },
+        {
+            "img":"../images/nvxie/x23.jpg"
+        },
+        {
+            "img":"../images/nvxie/x24.jpg"
+        } 
+        ]
+        
+    ]
+}

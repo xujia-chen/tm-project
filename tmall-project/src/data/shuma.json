@@ -1,0 +1,30 @@
+{
+    "code": 200, 
+    "status": "成功", 
+    "list": [
+        {
+            "img":"../images/shuma/x1.jpg",
+            "name":"自拍相机"
+        },
+        {
+            "img":"../images/shuma/x2.jpg",
+            "name":"数码相机"
+        },
+        {
+            "img":"../images/shuma/x3.jpg",
+            "name":"微单"
+        },
+        {
+            "img":"../images/shuma/x4.jpg",
+            "name":"单反"
+        },
+        {
+            "img":"../images/shuma/x5.jpg",
+            "name":"镜头"
+        },
+        {
+            "img":"../images/shuma/x6.jpg",
+            "name":"拍立得"
+        }
+    ]
+}

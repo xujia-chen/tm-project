@@ -1,0 +1,18 @@
+{
+    "code": 200, 
+    "status": "成功", 
+    "list": [
+        {
+            "img":"../images/jujiabaihuo/x1.png",
+            "name":"出口优品"
+        },
+        {
+            "img":"../images/jujiabaihuo/x2.png",
+            "name":"驱蚊"
+        },
+        {
+            "img":"../images/jujiabaihuo/x3.png",
+            "name":"伞"
+        }
+    ]
+}

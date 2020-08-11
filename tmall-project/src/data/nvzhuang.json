@@ -1,0 +1,76 @@
+{
+    "code": 200, 
+    "status": "成功", 
+    "list1": [
+        {
+            "name1": "——特色服饰——"
+        },
+        {
+            "name2": "——风格馆——"
+        },
+        {
+            "name3": "——时尚内搭——"
+        },
+        
+        {
+            "name4": "——品牌墙——"
+        }
+    ],
+    "list": [
+        [
+           {
+            "img":"../images/nvzhuang/1.jpg",
+            "name":"文艺风"
+        },
+        {
+            "img":"../images/nvzhuang/2.jpg",
+            "name":"欧根纱连衣裙"
+        },
+        {
+            "img":"../images/nvzhuang/3.jpg",
+            "name":"金丝绒连衣裙"
+        }
+        ],
+ 
+        [
+            {
+                "img":"../images/nvzhuang/5.jpg",
+                "name":"衬衫"
+            },
+            {
+                "img":"../images/nvzhuang/4.jpg",
+                "name":"毛衣"
+            },
+        {
+            "img":"../images/nvzhuang/6.jpg",
+            "name":"中老年女装"
+        }
+        ],
+        [
+          {
+            "img":"../images/nvzhuang/c10.jpg",
+            "name":"婚纱"
+        },
+        {
+            "img":"../images/nvzhuang/c11.jpg",
+            "name":"风衣"
+        },
+        {
+            "img":"../images/nvzhuang/c12.jpg",
+            "name":"针织外套"
+        }
+        ],
+        [
+           {
+            "img":"../images/nvzhuang/c13.png"
+        },
+        {
+            "img":"../images/nvzhuang/c14.jpg"
+        },
+        {
+            "img":"../images/nvzhuang/c15.jpg"
+        } 
+        ]
+        
+    ]
+}

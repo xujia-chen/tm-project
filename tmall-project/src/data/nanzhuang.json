@@ -1,0 +1,75 @@
+{
+    "code": 200, 
+    "status": "成功", 
+    "list1": [
+        {
+            "name1": "——风格馆——"
+        },
+        {
+            "name2": "——T恤——"
+        },
+        {
+            "name3": "——衬衫——"
+        },
+        {
+            "name4": "——品牌——"
+        }
+    ],
+    "list": [
+        [
+            {
+            "img":"../images/nanzhuang/c1.gif",
+            "name":"时尚品牌"
+        },
+        {
+            "img":"../images/nanzhuang/c2.gif",
+            "name":"商场同款"
+        },
+        {
+            "img":"../images/nanzhuang/c3.jpg",
+            "name":"短袖T恤"
+        }
+        ],
+        [
+            {
+            "img":"../images/nanzhuang/c4.jpg",
+            "name":"情侣T恤"
+        },
+        {
+            "img":"../images/nanzhuang/c5.jpg",
+            "name":"休闲裤"
+        },
+        {
+            "img":"../images/nanzhuang/c6.jpg",
+            "name":"牛仔裤"
+        }
+        ],
+        [
+            {
+            "img":"../images/nanzhuang/c7.jpg",
+            "name":"格子衬衫"
+        },
+        {
+            "img":"../images/nanzhuang/c8.jpg",
+            "name":"长袖衬衫"
+        },
+        {
+            "img":"../images/nanzhuang/c9.jpg",
+            "name":"牛仔外套"
+        }
+        ],
+        
+        [
+            {
+                "img":"../images/nanzhuang/c10.jpg"
+            },
+         {
+            "img":"../images/nanzhuang/c11.gif"
+        },
+        {
+            "img":"../images/nanzhuang/c12.gif"
+        }   
+        ]
+        
+    ]
+}

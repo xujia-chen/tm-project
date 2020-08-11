@@ -1,0 +1,18 @@
+{
+    "code": 200, 
+    "status": "成功", 
+    "list": [
+        {
+            "img":"../images/shouji/c1.png",
+            "name":"华为"
+        },
+        {
+            "img":"../images/shouji/c2.png",
+            "name":"OPPO"
+        },
+        {
+            "img":"../images/shouji/c3.png",
+            "name":"小米"
+        }
+    ]
+}

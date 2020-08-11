@@ -1,0 +1,35 @@
+{
+    "code": 200, 
+    "status": "成功", 
+    "list": [
+        {
+            "img":"../images/guojidapai/c1.png"
+        },
+        {
+            "img":"../images/guojidapai/c2.png"
+        },
+        {
+            "img":"../images/guojidapai/c3.png"
+        },
+        {
+            "img":"../images/guojidapai/c4.png"
+        },
+        {
+            "img":"../images/guojidapai/c5.png"
+        },
+        {
+            "img":"../images/guojidapai/c6.png"
+        },
+        {
+            "img":"../images/guojidapai/c7.png"
+        },
+        {
+            "img":"../images/guojidapai/c8.png"
+        }, {
+            "img":"../images/guojidapai/c9.png"
+        },
+        {
+            "img":"../images/guojidapai/c10.png"
+        }
+    ]
+}

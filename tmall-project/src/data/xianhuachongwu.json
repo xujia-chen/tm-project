@@ -1,0 +1,18 @@
+{
+    "code": 200, 
+    "status": "成功", 
+    "list": [
+        {
+            "img":"../images/xianhuachongwu/c1.jpg",
+            "name":"鲜花速递"
+        },
+        {
+            "img":"../images/xianhuachongwu/c2.jpg",
+            "name":"永生花"
+        },
+        {
+            "img":"../images/xianhuachongwu/c3.jpg",
+            "name":"花卉"
+        }
+    ]
+}

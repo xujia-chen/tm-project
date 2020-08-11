@@ -1,0 +1,30 @@
+{
+    "code": 200, 
+    "status": "成功", 
+    "list": [
+        {
+            "img":"../images/peishi/x1.jpg",
+            "name":"黄金"
+        },
+        {
+            "img":"../images/peishi/x2.jpg",
+            "name":"K金"
+        },
+        {
+            "img":"../images/peishi/x3.jpg",
+            "name":"铂金"
+        },
+        {
+            "img":"../images/peishi/x4.jpg",
+            "name":"钻石"
+        },
+        {
+            "img":"../images/peishi/x5.jpg",
+            "name":"彩色宝石"
+        },
+        {
+            "img":"../images/peishi/x6.jpg",
+            "name":"珍珠"
+        }
+    ]
+}

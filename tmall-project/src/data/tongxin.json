@@ -1,0 +1,18 @@
+{
+    "code": 200, 
+    "status": "成功", 
+    "list": [
+        {
+            "img":"../images/tongxin/x1.jpg",
+            "name":"移动"
+        },
+        {
+            "img":"../images/tongxin/x2.jpg",
+            "name":"联通"
+        },
+        {
+            "img":"../images/tongxin/x3.jpg",
+            "name":"电信"
+        }
+    ]
+}

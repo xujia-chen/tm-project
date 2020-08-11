@@ -1,0 +1,42 @@
+{
+    "code": 200, 
+    "status": "成功", 
+    "list": [
+        {
+            "id": "01", 
+            "name": "百变小樱airpods Pro3代保护套适用苹果无线蓝牙耳机套盒子壳可爱", 
+            "price": "19.8", 
+            "shop": "千机派数码专营店", 
+            "describe":"Pro三代专用 小樱鸟头呼唤杖",
+            "url1": "../images/product/detail1/c1.jpg",
+            "url2":"../images/product/detail1/c2.jpg",
+            "url3":"../images/product/detail1/c3.jpg",
+            "url4":"../images/product/detail1/c4.jpg",
+            "url5":"../images/product/detail1/c5.jpg"
+        }, 
+        {
+            "id": "02", 
+            "name": "独角鲸公仔毛绒玩具卡通鲸鲨布娃娃抱枕鲸鱼大靠垫生日礼物女创意", 
+            "price": "39", 
+            "shop": "怡米儿旗舰店", 
+            "describe":"粉色独角鲸 60厘米",
+            "url1": "../images/product/detail2/c1.jpg",
+            "url2":"../images/product/detail2/c2.jpg",
+            "url3":"../images/product/detail2/c3.jpg",
+            "url4":"../images/product/detail2/c4.jpg",
+            "url5":"../images/product/detail2/c5.jpg"
+        }, 
+        {
+            "id": "03", 
+            "name": "果酱夹心饼干多口味代餐饼干小包装混合装散装早餐饼干整箱零食", 
+            "price": "9.9", 
+            "shop": "梦云食品专营店", 
+            "describe":"草莓味10袋",
+            "url1": "../images/product/detail3/c1.jpg",
+            "url2":"../images/product/detail3/c2.jpg",
+            "url3":"../images/product/detail3/c3.jpg",
+            "url4":"../images/product/detail3/c4.jpg",
+            "url5":"../images/product/detail3/c5.png"
+        }
+    ]
+}

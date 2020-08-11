@@ -1,0 +1,18 @@
+{
+    "code": 200, 
+    "status": "成功", 
+    "list": [
+        {
+            "img":"../images/xihu/c1.png",
+            "name":"洗发水"
+        },
+        {
+            "img":"../images/xihu/c2.png",
+            "name":"牙膏"
+        },
+        {
+            "img":"../images/xihu/c3.png",
+            "name":"沐浴露"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "code": 200, 
+    "status": "成功", 
+    "list": [
+        {
+            "img":"../images/huwai/c1.jpg",
+            "name":"户外休闲衣裤"
+        },
+        {
+            "img":"../images/huwai/c2.jpg",
+            "name":"军迷鞋靴"
+        },
+        {
+            "img":"../images/huwai/c3.jpg",
+            "name":"军迷用品"
+        }
+    ]
+}

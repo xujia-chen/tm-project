@@ -1,0 +1,18 @@
+{
+    "code": 200, 
+    "status": "成功", 
+    "list": [
+        {
+            "img":"../images/shengxian/x1.jpg",
+            "name":"奇异果"
+        },
+        {
+            "img":"../images/shengxian/x2.jpg",
+            "name":"车厘子/樱桃"
+        },
+        {
+            "img":"../images/shengxian/x3.jpg",
+            "name":"芒果"
+        }
+    ]
+}

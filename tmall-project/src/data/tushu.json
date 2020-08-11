@@ -1,0 +1,18 @@
+{
+    "code": 200, 
+    "status": "成功", 
+    "list": [
+        {
+            "img":"../images/tushu/c1.jpg",
+            "name":"动漫/幽默"
+        },
+        {
+            "img":"../images/tushu/c2.jpg",
+            "name":"艺术"
+        },
+        {
+            "img":"../images/tushu/c3.jpg",
+            "name":"法律"
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "code": 200,
+    "status": "成功",
+    "list1": [
+        {
+            "name1": "——女装——"
+        },
+        {
+            "name2": "——女鞋——"
+        },
+        {
+            "name3": "——男装——"
+        },
+        {
+            "name4": "——家电——"
+        },
+        {
+            "name5": "——美妆——"
+        }
+    ],
+    "list": [
+        [
+            {
+                "img": "../images/liuxingqushi/x1.jpg",
+                "name": "连衣裙"
+            },
+            {
+                "img": "../images/liuxingqushi/x2.jpg",
+                "name": "T恤"
+            },
+            {
+                "img": "../images/liuxingqushi/x3.jpg",
+                "name": "衬衫"
+            },
+            {
+                "img": "../images/liuxingqushi/x4.jpg",
+                "name": "雪纺衫"
+            },
+            {
+                "img": "../images/liuxingqushi/x5.jpg",
+                "name": "裤子"
+            },
+            {
+                "img": "../images/liuxingqushi/x6.jpg",
+                "name": "牛仔裤"
+            }
+        ],
+        [
+            {
+                "img": "../images/liuxingqushi/x7.jpg",
+                "name": "小白鞋"
+            },
+            {
+                "img": "../images/liuxingqushi/x8.jpg",
+                "name": "乐福鞋"
+            },
+            {
+                "img": "../images/liuxingqushi/x9.jpg",
+                "name": "草编鞋"
+            }
+        ],
+        [
+            {
+                "img": "../images/liuxingqushi/x10.png",
+                "name": "T恤"
+            },
+            {
+                "img": "../images/liuxingqushi/x11.png",
+                "name": "衬衫"
+            },
+            {
+                "img": "../images/liuxingqushi/x12.png",
+                "name": "POLO衫"
+            },
+            {
+                "img": "../images/liuxingqushi/x13.png",
+                "name": "夹克"
+            },
+            {
+                "img": "../images/liuxingqushi/x14.png",
+                "name": "休闲裤"
+            },
+            {
+                "img": "../images/liuxingqushi/x15.png",
+                "name": "牛仔裤"
+            }
+        ],
+        [
+            {
+                "img": "../images/liuxingqushi/x16.jpg",
+                "name": "平板电视"
+            },
+            {
+                "img": "../images/liuxingqushi/x17.jpg",
+                "name": "洗衣机"
+            },
+            {
+                "img": "../images/liuxingqushi/x18.jpg",
+                "name": "冰箱"
+            },
+            {
+                "img": "../images/liuxingqushi/x19.jpg",
+                "name": "电饭煲"
+            },
+            {
+                "img": "../images/liuxingqushi/x20.jpg",
+                "name": "空气净化器"
+            },
+            {
+                "img": "../images/liuxingqushi/x21.jpg",
+                "name": "扫地机器人"
+            }
+        ],
+        [
+            {
+                "img": "../images/liuxingqushi/x22.jpg",
+                "name": "护肤套装"
+            },
+            {
+                "img": "../images/liuxingqushi/x23.jpg",
+                "name": "面膜"
+            },
+            {
+                "img": "../images/liuxingqushi/x16.jpg",
+                "name": "身体护理"
+            }
+        ]
+    ]
+}

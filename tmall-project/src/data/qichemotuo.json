@@ -1,0 +1,18 @@
+{
+    "code": 200, 
+    "status": "成功", 
+    "list": [
+        {
+            "img":"../images/motuoche/c1.png",
+            "name":"我都爱车"
+        },
+        {
+            "img":"../images/motuoche/c2.png",
+            "name":"儿童座椅"
+        },
+        {
+            "img":"../images/motuoche/c3.png",
+            "name":"汽车脚垫"
+        }
+    ]
+}

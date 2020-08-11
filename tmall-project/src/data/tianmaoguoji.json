@@ -1,0 +1,96 @@
+{
+    "code": 200, 
+    "status": "成功", 
+    "list1": [
+        {
+            "name1": "——母婴用品——"
+        },
+        {
+            "name2": "——营养保健——"
+        },
+        {
+            "name3": "——美妆——"
+        }
+    ],
+    "list": [
+        [
+            {
+                "img":"../images/tianmaoguoji/x1.jpg",
+                "name":"德国Aptamil"
+            },
+            {
+                "img":"../images/tianmaoguoji/x2.jpg",
+                "name":"荷兰诺优能"
+            },
+            {
+                "img":"../images/tianmaoguoji/x3.jpg",
+                "name":"澳洲贝拉米"
+            },
+            {
+                "img":"../images/tianmaoguoji/x4.jpg",
+                "name":"英国牛栏"
+            },
+            {
+                "img":"../images/tianmaoguoji/x5.jpg",
+                "name":"日本花王"
+            },
+            {
+                "img":"../images/tianmaoguoji/x6.jpg",
+                "name":"牛奶粉"
+            }
+        ],
+        [
+            {
+                "img":"../images/tianmaoguoji/x7.jpg",
+                "name":"自然之宝"
+            },
+            {
+                "img":"../images/tianmaoguoji/x8.jpg",
+                "name":"swisse"
+            },
+            {
+                "img":"../images/tianmaoguoji/x9.jpg",
+                "name":"GNC"
+            },
+            {
+                "img":"../images/tianmaoguoji/x10.jpg",
+                "name":"双心"
+            },
+            {
+                "img":"../images/tianmaoguoji/x11.jpg",
+                "name":"医食同源"
+            },
+            {
+                "img":"../images/tianmaoguoji/x12.jpg",
+                "name":"基础营养补充"
+            }
+        ],
+        [
+            {
+                "img":"../images/tianmaoguoji/x13.jpg",
+                "name":"面霜"
+            },
+            {
+                "img":"../images/tianmaoguoji/x14.jpg",
+                "name":"乳液"
+            },
+            {
+                "img":"../images/tianmaoguoji/x15.jpg",
+                "name":"面部精华"
+            },
+            {
+                "img":"../images/tianmaoguoji/x16.jpg",
+                "name":"面膜"
+            },
+            {
+                "img":"../images/tianmaoguoji/x17.jpg",
+                "name":"眼霜"
+            },
+            {
+                "img":"../images/tianmaoguoji/x18.jpg",
+                "name":"眼部精华"
+            }
+        ]
+        
+    ]
+}

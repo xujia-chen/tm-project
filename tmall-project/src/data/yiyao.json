@@ -1,0 +1,18 @@
+{
+    "code": 200, 
+    "status": "成功", 
+    "list": [
+        {
+            "img":"../images/yiyao/x1.jpg",
+            "name":"男科用药"
+        },
+        {
+            "img":"../images/yiyao/x2.jpg",
+            "name":"维矿物质"
+        },
+        {
+            "img":"../images/yiyao/x3.jpg",
+            "name":"补气补血"
+        }
+    ]
+}

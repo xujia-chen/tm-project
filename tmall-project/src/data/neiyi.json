@@ -1,0 +1,18 @@
+{
+    "code": 200, 
+    "status": "成功", 
+    "list": [
+        {
+            "img":"../images/neiyi/c1.jpg",
+            "name":"文胸套装"
+        },
+        {
+            "img":"../images/neiyi/c2.jpg",
+            "name":"少女文胸"
+        },
+        {
+            "img":"../images/neiyi/c3.jpg",
+            "name":"无钢圈文胸"
+        }
+    ]
+}

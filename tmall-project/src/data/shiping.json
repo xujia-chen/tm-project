@@ -1,0 +1,18 @@
+{
+    "code": 200, 
+    "status": "成功", 
+    "list": [
+        {
+            "img":"../images/shiping/c1.jpg",
+            "name":"进口牛奶"
+        },
+        {
+            "img":"../images/shiping/c2.jpg",
+            "name":"进口食品"
+        },
+        {
+            "img":"../images/shiping/c3.jpg",
+            "name":"进口饼干"
+        }
+    ]
+}

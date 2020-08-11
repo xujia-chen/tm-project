@@ -1,0 +1,18 @@
+{
+    "code": 200, 
+    "status": "成功", 
+    "list": [
+        {
+            "img":"../images/jiazhuang/x1.png",
+            "name":"现代吸顶灯"
+        },
+        {
+            "img":"../images/jiazhuang/x2.png",
+            "name":"水晶吸顶灯"
+        },
+        {
+            "img":"../images/jiazhuang/x3.png",
+            "name":"欧式吊灯"
+        }
+    ]
+}

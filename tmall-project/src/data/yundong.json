@@ -1,0 +1,18 @@
+{
+    "code": 200, 
+    "status": "成功", 
+    "list": [
+        {
+            "img":"../images/meizhuang/x1.jpg",
+            "name":"男子跑步鞋"
+        },
+        {
+            "img":"../images/meizhuang/x2.jpg",
+            "name":"女子跑步鞋"
+        },
+        {
+            "img":"../images/meizhuang/x3.jpg",
+            "name":"青少年跑步鞋"
+        }
+    ]
+}

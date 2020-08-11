@@ -1,0 +1,18 @@
+{
+    "code": 200, 
+    "status": "成功", 
+    "list": [
+        {
+            "img":"../images/jiafang/c1.jpg",
+            "name":"四件套"
+        },
+        {
+            "img":"../images/jiafang/c2.jpg",
+            "name":"针织套件"
+        },
+        {
+            "img":"../images/jiafang/c3.jpg",
+            "name":"子母被"
+        }
+    ]
+}

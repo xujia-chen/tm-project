@@ -1,0 +1,18 @@
+{
+    "code": 200, 
+    "status": "成功", 
+    "list": [
+        {
+            "img":"../images/yueqi/x1.jpg",
+            "name":"钢琴"
+        },
+        {
+            "img":"../images/yueqi/x2.jpg",
+            "name":"数码钢琴"
+        },
+        {
+            "img":"../images/yueqi/x3.jpg",
+            "name":"电子琴"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "code": 200, 
+    "status": "成功", 
+    "list": [
+        {
+            "img":"../images/meizhuang/x1.jpg",
+            "name":"官方直售"
+        },
+        {
+            "img":"../images/meizhuang/x2.jpg",
+            "name":"护肤套装"
+        },
+        {
+            "img":"../images/meizhuang/x3.jpg",
+            "name":"面膜"
+        }
+    ]
+}
