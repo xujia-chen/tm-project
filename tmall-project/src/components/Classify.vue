@@ -1,5 +1,5 @@
 <template>
-    <div id="app">
+    <div id="page">
         <div class="header">
             <div class="header-div1">
                 <img src="../images/wodetianmao/back.png" alt="" @click="back">
@@ -942,7 +942,7 @@ export default {
 }
 </script>
 <style scoped>
-    #app{
+    #page{
         width: 100%;
         height: 100%;
     }
@@ -955,6 +955,7 @@ export default {
         align-items: center;
         /* justify-content: center; */
         background-color: white;
+        z-index: 5;
     }
     .header-div1{
         width: 50px;
@@ -988,11 +989,11 @@ export default {
     }
    
     .lift{
-        position: absolute;
+        position: fixed;
         top: 70px;
         left: 0px;
         width: 18%;
-        height: 100%;
+        height: 91%;
         font-size: 14px;
         flex-shrink:0;
         /* overflow: hidden; */
@@ -1028,7 +1029,7 @@ export default {
         width: 82%;
         height: 100%;
         /* overflow: hidden; */
-        overflow-y: auto;
+        /* overflow-y: auto; */
         /* height: 100%; */
         /* background-color: violet; */
     }

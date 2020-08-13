@@ -105,6 +105,9 @@
                     </div>
                     <div class="item-div2">{{item.lable}}</div>
                 </div>
+                <!-- <div class="item-div1" style="border: none;"></div>
+                <div class="item-div1" style="margin-right: 14px;border: none;"></div> -->
+                
             </div>    
         </div>
         <div class="top" :class={top1:seen1} @click="top">
@@ -185,6 +188,214 @@ export default {
             ],
             list:[
                 {
+                img:require("../images/weinituijian-shouye/c2.jpg"),
+                span1:"鲸鲨公仔毛绒玩具生日",
+                span2:"礼物靠垫抱枕",
+                money:"¥ 39",
+                lable:"怡米儿"
+                },
+                {
+                img:require("../images/weinituijian-shouye/c3.jpg"),
+                span1:"果酱夹心饼干多口味代",
+                span2:"餐饼干小包装混合装散装早餐饼干整箱零食",
+                money:"¥ 9.9",
+                lable:"金冠"
+                },
+                {
+                img:require("../images/weinituijian-shouye/c4.jpg"),
+                span1:"鲸鲨公仔毛绒玩具生日",
+                span2:"礼物靠垫抱枕",
+                money:"¥ 39",
+                lable:"怡米儿"
+                },
+                {
+                img:require("../images/weinituijian-shouye/c5.jpg"),
+                span1:"果酱夹心饼干多口味代",
+                span2:"餐饼干小包装混合装散装早餐饼干整箱零食",
+                money:"¥ 9.9",
+                lable:"金冠"
+                },
+                {
+                img:require("../images/weinituijian-shouye/c6.jpg"),
+                span1:"鲸鲨公仔毛绒玩具生日",
+                span2:"礼物靠垫抱枕",
+                money:"¥ 39",
+                lable:"怡米儿"
+                },
+                {
+                img:require("../images/weinituijian-shouye/c7.jpg"),
+                span1:"果酱夹心饼干多口味代",
+                span2:"餐饼干小包装混合装散装早餐饼干整箱零食",
+                money:"¥ 9.9",
+                lable:"金冠"
+                },
+                {
+                img:require("../images/weinituijian-shouye/c8.jpg"),
+                span1:"鲸鲨公仔毛绒玩具生日",
+                span2:"礼物靠垫抱枕",
+                money:"¥ 39",
+                lable:"怡米儿"
+                },
+                {
+                img:require("../images/weinituijian-shouye/c9.jpg"),
+                span1:"果酱夹心饼干多口味代",
+                span2:"餐饼干小包装混合装散装早餐饼干整箱零食",
+                money:"¥ 9.9",
+                lable:"金冠"
+                },
+                {
+                img:require("../images/weinituijian-shouye/c10.jpg"),
+                span1:"鲸鲨公仔毛绒玩具生日",
+                span2:"礼物靠垫抱枕",
+                money:"¥ 39",
+                lable:"怡米儿"
+                },
+                {
+                img:require("../images/weinituijian-shouye/c11.jpg"),
+                span1:"果酱夹心饼干多口味代",
+                span2:"餐饼干小包装混合装散装早餐饼干整箱零食",
+                money:"¥ 9.9",
+                lable:"金冠"
+                },
+                {
+                img:require("../images/weinituijian-shouye/c2.jpg"),
+                span1:"鲸鲨公仔毛绒玩具生日",
+                span2:"礼物靠垫抱枕",
+                money:"¥ 39",
+                lable:"怡米儿"
+                },
+                {
+                img:require("../images/weinituijian-shouye/c3.jpg"),
+                span1:"果酱夹心饼干多口味代",
+                span2:"餐饼干小包装混合装散装早餐饼干整箱零食",
+                money:"¥ 9.9",
+                lable:"金冠"
+                },
+                {
+                img:require("../images/weinituijian-shouye/c4.jpg"),
+                span1:"鲸鲨公仔毛绒玩具生日",
+                span2:"礼物靠垫抱枕",
+                money:"¥ 39",
+                lable:"怡米儿"
+                },
+                {
+                img:require("../images/weinituijian-shouye/c5.jpg"),
+                span1:"果酱夹心饼干多口味代",
+                span2:"餐饼干小包装混合装散装早餐饼干整箱零食",
+                money:"¥ 9.9",
+                lable:"金冠"
+                },
+                {
+                img:require("../images/weinituijian-shouye/c6.jpg"),
+                span1:"鲸鲨公仔毛绒玩具生日",
+                span2:"礼物靠垫抱枕",
+                money:"¥ 39",
+                lable:"怡米儿"
+                },
+                {
+                img:require("../images/weinituijian-shouye/c7.jpg"),
+                span1:"果酱夹心饼干多口味代",
+                span2:"餐饼干小包装混合装散装早餐饼干整箱零食",
+                money:"¥ 9.9",
+                lable:"金冠"
+                },
+                {
+                img:require("../images/weinituijian-shouye/c8.jpg"),
+                span1:"鲸鲨公仔毛绒玩具生日",
+                span2:"礼物靠垫抱枕",
+                money:"¥ 39",
+                lable:"怡米儿"
+                },
+                {
+                img:require("../images/weinituijian-shouye/c9.jpg"),
+                span1:"果酱夹心饼干多口味代",
+                span2:"餐饼干小包装混合装散装早餐饼干整箱零食",
+                money:"¥ 9.9",
+                lable:"金冠"
+                },
+                {
+                img:require("../images/weinituijian-shouye/c10.jpg"),
+                span1:"鲸鲨公仔毛绒玩具生日",
+                span2:"礼物靠垫抱枕",
+                money:"¥ 39",
+                lable:"怡米儿"
+                },
+                {
+                img:require("../images/weinituijian-shouye/c11.jpg"),
+                span1:"果酱夹心饼干多口味代",
+                span2:"餐饼干小包装混合装散装早餐饼干整箱零食",
+                money:"¥ 9.9",
+                lable:"金冠"
+                },{
+                img:require("../images/weinituijian-shouye/c2.jpg"),
+                span1:"鲸鲨公仔毛绒玩具生日",
+                span2:"礼物靠垫抱枕",
+                money:"¥ 39",
+                lable:"怡米儿"
+                },
+                {
+                img:require("../images/weinituijian-shouye/c3.jpg"),
+                span1:"果酱夹心饼干多口味代",
+                span2:"餐饼干小包装混合装散装早餐饼干整箱零食",
+                money:"¥ 9.9",
+                lable:"金冠"
+                },
+                {
+                img:require("../images/weinituijian-shouye/c4.jpg"),
+                span1:"鲸鲨公仔毛绒玩具生日",
+                span2:"礼物靠垫抱枕",
+                money:"¥ 39",
+                lable:"怡米儿"
+                },
+                {
+                img:require("../images/weinituijian-shouye/c5.jpg"),
+                span1:"果酱夹心饼干多口味代",
+                span2:"餐饼干小包装混合装散装早餐饼干整箱零食",
+                money:"¥ 9.9",
+                lable:"金冠"
+                },
+                {
+                img:require("../images/weinituijian-shouye/c6.jpg"),
+                span1:"鲸鲨公仔毛绒玩具生日",
+                span2:"礼物靠垫抱枕",
+                money:"¥ 39",
+                lable:"怡米儿"
+                },
+                {
+                img:require("../images/weinituijian-shouye/c7.jpg"),
+                span1:"果酱夹心饼干多口味代",
+                span2:"餐饼干小包装混合装散装早餐饼干整箱零食",
+                money:"¥ 9.9",
+                lable:"金冠"
+                },
+                {
+                img:require("../images/weinituijian-shouye/c8.jpg"),
+                span1:"鲸鲨公仔毛绒玩具生日",
+                span2:"礼物靠垫抱枕",
+                money:"¥ 39",
+                lable:"怡米儿"
+                },
+                {
+                img:require("../images/weinituijian-shouye/c9.jpg"),
+                span1:"果酱夹心饼干多口味代",
+                span2:"餐饼干小包装混合装散装早餐饼干整箱零食",
+                money:"¥ 9.9",
+                lable:"金冠"
+                },
+                {
+                img:require("../images/weinituijian-shouye/c10.jpg"),
+                span1:"鲸鲨公仔毛绒玩具生日",
+                span2:"礼物靠垫抱枕",
+                money:"¥ 39",
+                lable:"怡米儿"
+                },
+                {
+                img:require("../images/weinituijian-shouye/c11.jpg"),
+                span1:"果酱夹心饼干多口味代",
+                span2:"餐饼干小包装混合装散装早餐饼干整箱零食",
+                money:"¥ 9.9",
+                lable:"金冠"
+                },{
                 img:require("../images/weinituijian-shouye/c2.jpg"),
                 span1:"鲸鲨公仔毛绒玩具生日",
                 span2:"礼物靠垫抱枕",
@@ -338,6 +549,7 @@ export default {
         },
         top(){
            this.$refs.bcd.scrollTop=0;
+           console.log(this.$refs.bcd.scrollTop)
         }
     }
 }
@@ -404,7 +616,7 @@ export default {
         margin-right: 10px;
     }
     .header-box5>img{
-        width: 130px;
+        width: 105px;
         /* vertical-align: middle; */
         margin-bottom: 10px;
     }

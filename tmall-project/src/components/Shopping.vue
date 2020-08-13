@@ -423,9 +423,18 @@ export default {
             } else {
                 this.$store.state.showYuan4 = true;
             }
+            if(this.$store.state.showDiv1==true&&this.$store.state.showDiv2==false&&this.$store.state.showDiv3==false&& this.$store.state.showYuan1 ==false){
+                this.$store.state.showYuan4 = false;
+                this.n1=1;
+            }
+            if((this.$store.state.showDiv1==true&&this.$store.state.showDiv2==true&&this.$store.state.showDiv3==false&& this.$store.state.showYuan1 ==false&&this.$store.state.showYuan2 ==false)||
+            (this.$store.state.showDiv1==true&&this.$store.state.showDiv3==true&&this.$store.state.showDiv2==false&& this.$store.state.showYuan1 ==false&&this.$store.state.showYuan3 ==false)){
+                this.$store.state.showYuan4 = false;
+                this.n1=2;
+            }
         },
         que2() {                
-            this.m2=(39*this.$store.state.count1);
+            // this.m2=(39*this.$store.state.count1);
             if (this.num2 % 2 == 0) {
                 this.$store.state.showYuan2 = false;
                 this.n1+=1;
@@ -442,10 +451,18 @@ export default {
             } else {
                 this.$store.state.showYuan4 = true;
             }
-
+            if(this.$store.state.showDiv2==true&&this.$store.state.showDiv1==false&&this.$store.state.showDiv3==false&& this.$store.state.showYuan2 ==false){
+                this.$store.state.showYuan4 = false;
+                this.n1=1;
+            }
+            if((this.$store.state.showDiv1==true&&this.$store.state.showDiv2==true&&this.$store.state.showDiv3==false&& this.$store.state.showYuan1 ==false&&this.$store.state.showYuan2 ==false)||
+        (this.$store.state.showDiv2==true&&this.$store.state.showDiv3==true&&this.$store.state.showDiv1==false&& this.$store.state.showYuan2 ==false&&this.$store.state.showYuan3 ==false)){
+                this.$store.state.showYuan4 = false;
+                this.n1=2;
+            }
         },
         que3() {
-            this.m3=(9.9*this.$store.state.count2);
+            // this.m3=(9.9*this.$store.state.count2);
             if (this.num3 % 2 == 0) {
                 this.$store.state.showYuan3 = false;
                 this.n1+=1;
@@ -462,14 +479,35 @@ export default {
             } else {
                 this.$store.state.showYuan4 = true;
             }
+            if(this.$store.state.showDiv3==true&&this.$store.state.showDiv2==false&&this.$store.state.showDiv1==false&& this.$store.state.showYuan3 ==false){
+                this.$store.state.showYuan4 = false;
+                this.n1=1;
+            }
+            if((this.$store.state.showDiv1==true&&this.$store.state.showDiv3==true&&this.$store.state.showDiv2==false&& this.$store.state.showYuan1 ==false&&this.$store.state.showYuan3 ==false)||
+            (this.$store.state.showDiv2==true&&this.$store.state.showDiv3==true&&this.$store.state.showDiv1==false&& this.$store.state.showYuan2 ==false&&this.$store.state.showYuan3 ==false)){
+                this.$store.state.showYuan4 = false;
+                this.n1=2;
+            }
         },
         que4() {
+            // if(this.$store.state.showYuan1 == false&&this.$store.state.showYuan2 == false&&this.$store.state.showYuan3 == false){
+            //     this.num4=1;
+            // }
             if (this.num4 % 2 == 0) {
                 this.$store.state.showYuan4 = false;
                 this.$store.state.showYuan3 = false;
                 this.$store.state.showYuan2 = false;
                 this.$store.state.showYuan1 = false;
-                this.n1=3;
+                if(this.$store.state.showYuan1 == false&&this.$store.state.showYuan2 == false&&this.$store.state.showYuan3 == false&&this.$store.state.showDiv1==true&&this.$store.state.showDiv2==true&&this.$store.state.showDiv3==true){
+                    this.n1=3;
+                }else if((this.$store.state.showYuan1 == false&&this.$store.state.showYuan2==false&&this.$store.state.showDiv1==true&&this.$store.state.showDiv2==true)||
+                (this.$store.state.showYuan1 == false&&this.$store.state.showYuan3==false&&this.$store.state.showDiv1==true&&this.$store.state.showDiv3==true)||
+                (this.$store.state.showYuan2 == false&&this.$store.state.showYuan3==false&&this.$store.state.showDiv3==true&&this.$store.state.showDiv2==true)){
+                    this.n1=2;
+                }else{
+                    this.n1=1;
+                }
+
                 this.$store.state.n2=9.9*this.$store.state.count2+39*this.$store.state.count1+19.8*this.$store.state.count;
             } else {
                 this.$store.state.showYuan3 = true;
@@ -593,30 +631,54 @@ export default {
             this.showMask2=false;
             this.showMask3=false;
             this.$store.state.showDiv1=false;
-            this.$store.state.n2-=this.$store.state.count*19.8;
             this.$store.state.n3-=this.$store.state.count;
             this.$store.state.count=0;
-            this.n1-=1;
+            if(this.$store.state.n2==0){
+                this.$store.state.n2-=0
+            }else{
+            this.$store.state.n2-=this.$store.state.count*19.8;
+            }
+            if(this.n1==0){
+                this.n1-=0;
+            }else{
+                this.n1-=1;
+            }
         },
         confirmFun2(){
             this.showMask1=false;
             this.showMask2=false;
             this.showMask3=false;
             this.$store.state.showDiv2=false;
-            this.$store.state.n2-=this.$store.state.count1*39;
             this.$store.state.n3-=this.$store.state.count1;
             this.$store.state.count1=0;
-            this.n1-=1;
+            if(this.$store.state.n2==0){
+                this.$store.state.n2-=0
+            }else{
+            this.$store.state.n2-=this.$store.state.count1*39;
+            }
+            if(this.n1==0){
+                this.n1-=0;
+            }else{
+                this.n1-=1;
+            }
         },
         confirmFun3(){
             this.showMask1=false;
             this.showMask2=false;
             this.showMask3=false;
             this.$store.state.showDiv3=false;
-            this.$store.state.n2-=this.$store.state.count2*9.9;
             this.$store.state.n3-=this.$store.state.count2;
             this.$store.state.count2=0;
-            this.n1-=1;
+            if(this.$store.state.n2==0){
+                this.$store.state.n2-=0
+            }else{
+            this.$store.state.n2-=this.$store.state.count2*9.9;
+            }
+            if(this.n1==0){
+                this.n1-=0;
+            }else{
+                this.n1-=1;
+            }
         },
         back(){
             this.$router.go(-1);
